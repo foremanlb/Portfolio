@@ -1,0 +1,32 @@
+#intro {
+  width: 50%;
+  align-self: flex-end;
+  background-color: #040819f5;
+  border-radius: 15px;
+  border: 3px double #ff88dc;
+  text-shadow: 0px 0px 3px #63c132;
+}
+
+#home {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+#statement {
+  padding: 0 75px 0 75px;
+}
+
+#abilities-container {
+  width: 50%;
+  align-self: flex-start;
+  background-color: #040819f5;
+  border-radius: 15px;
+  border: 3px double #ff88dc;
+  text-shadow: 0px 0px 3px #63c132;
+}
+
+#abilities-list {
+  list-style: armenian;
+  padding: 0px;
+}

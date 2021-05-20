@@ -1,0 +1,29 @@
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #040819;
+  /* text-shadow: 0px 0px 10px #f8f32b; */
+}
+
+#nav {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link {
+  color: #86e9ed;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-shadow: 0px 0px 5px #ff88dc;
+  color: #040819;
+}
+
+#title {
+  font-family: "Turret Road", cursive;
+  font-size: 36px;
+}
