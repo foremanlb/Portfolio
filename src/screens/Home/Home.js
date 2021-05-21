@@ -4,8 +4,10 @@ import './Home.css'
 export default function Home() {
   return (
     <div id='home'>
-      <h1>Craig Navarro</h1>
-      <h3>Developer</h3>
+      <div id='home-title'>
+        <h1>Craig A. Navarro</h1>
+        <h2>Software Developer</h2>
+      </div>
       <div id='intro'>
         <h1>Software Engineer</h1>
         <p id='statement'>My name is Craig Navarro and I am a developer with a need for knowledge and a process that values logical thinking. Former professional salesman, working on several teams, collaborating and leading in different facets. Comic connoisseur with a love for the depth of world building and a passion for problem solving in both puzzles and complex code.</p>

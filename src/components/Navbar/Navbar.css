@@ -3,7 +3,6 @@
   justify-content: space-between;
   width: 100%;
   background-color: #040819;
-  /* text-shadow: 0px 0px 10px #f8f32b; */
 }
 
 #nav {
@@ -15,15 +14,21 @@
 
 .nav-link {
   color: #86e9ed;
+  font-family: "Montserrat Alternates", sans-serif;
   text-decoration: none;
+  transition: all 500ms ease-in-out;
 }
 
 .nav-link:hover {
-  text-shadow: 0px 0px 5px #ff88dc;
-  color: #040819;
+  text-shadow: 0px 0px 25px #ff88dc;
 }
 
 #title {
-  font-family: "Turret Road", cursive;
+  font-family: "Trade Winds", cursive;
   font-size: 36px;
+  transition: all 500ms ease-in-out;
+}
+
+#title:hover {
+  text-shadow: 0px 0px 25px #ff88dc;
 }
