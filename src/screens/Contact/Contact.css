@@ -2,7 +2,9 @@
   width: 75%;
   text-decoration: none;
   text-decoration: none;
-  box-shadow: 0 0 40px 40px #040819 inset, 0 0 10px 0 #040819;
+  border: 3px double #ff88dc;
+  background-color: #040819f5;
+  border-radius: 15px;
   transition: all 500ms ease-in-out;
 }
 
